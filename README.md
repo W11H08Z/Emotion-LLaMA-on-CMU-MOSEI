@@ -21,7 +21,7 @@ llama_model: "/home/user/project/Emotion-LLaMA/checkpoints/Llama-2-7b-chat-hf"
 3. Specify the path to Emotion-LLaMA in the [config file](train_configs\mosei_finetune.yaml#L9):
 
 ```yaml
-# Set MiniGPT-v2 path
+# Set Emotion-LLaMA path
 ckpt: "/home/user/project/Emotion-LLaMA/checkpoints/Emoation_LLaMA.pth"
 ```
 
