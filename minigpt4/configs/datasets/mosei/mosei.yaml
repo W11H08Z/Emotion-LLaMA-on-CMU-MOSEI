@@ -1,0 +1,8 @@
+datasets:
+  mosei_data_builder:
+    data_type: images
+    
+    build_info:
+      image_path: /home/peiyuan/dataset/CMU-MOSEI/data
+
+      ann_path: /home/peiyuan/dataset/CMU-MOSEI/data/final_multi_labels.csv

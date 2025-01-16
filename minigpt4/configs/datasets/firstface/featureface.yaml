@@ -1,0 +1,10 @@
+datasets:
+  feature_face_caption:
+    data_type: images
+    
+    build_info:
+      image_path: /home/peiyuan/dataset/CMU-MOSEI/data
+
+      ann_path: /home/peiyuan/dataset/CMU-MOSEI/data/final_multi_labels.csv
+      # ann_path: /home/user/selected_face/face_emotion/MERR_coarse_grained.txt
+      # ann_path: /home/user/selected_face/face_emotion/MERR_fine_grained.txt
