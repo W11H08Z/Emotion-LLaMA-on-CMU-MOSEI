@@ -27,7 +27,7 @@ ckpt: "/home/user/project/Emotion-LLaMA/checkpoints/Emoation_LLaMA.pth"
 
 ### Preparing the MOSEI Data
 
-1. Download the MOSEI Data on [BaiduDisk]()
+1. Download the MOSEI Data on [BaiduDisk](https://pan.baidu.com/s/1KvVpLDpKkPwg8yb992UBlw?pwd=mdfe)
 2. Unzip the data
 ```shell
 unzip data.zip
